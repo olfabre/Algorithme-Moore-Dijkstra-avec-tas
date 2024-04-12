@@ -1,6 +1,5 @@
 Sources:
-
-[https://www.youtube.com/watch?v=cCiyQ1Z_NBY]
+Algorithme de tri : Tri par tas - Heap Sort : https://www.youtube.com/watch?v=cCiyQ1Z_NBY
 
 
 
