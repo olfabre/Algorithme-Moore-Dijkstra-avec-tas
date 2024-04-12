@@ -1,8 +1,8 @@
-Sources:
-Algorithme de tri : Tri par tas - Heap Sort : https://www.youtube.com/watch?v=cCiyQ1Z_NBY
-
-
-
+Sources:  
+Algorithme de tri : Tri par tas - Heap Sort : https://www.youtube.com/watch?v=cCiyQ1Z_NBY  
+  
+  
+  
 On s'intéresse ici à implémenter une variante de la méthode de Dijkstra utilisant un tas.  
 Un fichier donnant des explications.   
 On suppose que les graphes sur lesquels on cherche à calculer les plus courts chemins sont des graphes simples.  
